@@ -1,0 +1,148 @@
+[
+  {
+    "dropDownYear": "2021+",
+    "id": 1,
+    "exp": {
+      "img": "https://i.ibb.co/54vgsDc/Deloitte.png",
+      "title": "Management Consultant",
+      "startDate": "2022-02-01T00:00:00.000Z",
+      "dates": "Feb 2022 - present",
+      "description": [
+        "By joining Monitor Deloitte's Strategy & Analytics team, I honed my technical skills and gained expertise in drawing insights and communicating complex data effectively",
+        "On the side, I discovered a passion for tech and product management, which was the first time since shifting my career away from investment banking that I found a pursuit that truly resonates with me"
+      ]
+    }
+  },
+  {
+    "dropDownYear": "2021+",
+    "id": 2,
+    "exp": {
+      "img": "https://i.ibb.co/wyk8Zbq/Imperial.png",
+      "title": "Intensive Coding Bootcamp",
+      "startDate": "2022-12-01T00:00:00.000Z",
+      "dates": "Dec 2022 - April 2023",
+      "description": [
+        "To learn more about technology, I undertook a 16-week full-time full-stack coding bootcamp with Imperial College London",
+        "I completed various coding challenges, and built applications using the MERN stack",
+        "I’m continuing my learning journey by taking on projects personally, and at Deloitte"
+      ]
+    }
+  },
+  {
+    "dropDownYear": "2021+",
+    "id": 3,
+    "exp": {
+      "img": "https://i.ibb.co/2gSbMtg/Google.png",
+      "title": "UX Design Course",
+      "startDate": "2021-06-01T00:00:00.000Z",
+      "dates": "Jun 2021 - Jan 2022",
+      "description": [
+        "To learn more about how to design experiences that delight customers, I undertook a 6-month part-time UX Design course with Google",
+        "Content incl. UX Design Process (empathize, define, ideate), UX Research, Wireframing and Prototyping with Figma, user testing"
+      ]
+    }
+  },
+  {
+    "dropDownYear": "2021+",
+    "id": 4,
+    "exp": {
+      "img": "https://i.ibb.co/1GrNBWm/Marketgravity.png",
+      "title": "Product Development Bootcamp",
+      "startDate": "2021-12-01T00:00:00.000Z",
+      "dates": "Dec 2021",
+      "description": [
+        "To learn more about the end-to-end product lifecycle, from ideation through to commercialisation, I joined a 2-week full-time bootcamp w/ Market Gravity",
+        "The bootcamp helped me connect the dots on how to transform an idea into a fully-fledged product / service / proposition, complete with a commercial model, product roadmap, and much more"
+      ]
+    }
+  },
+  {
+    "dropDownYear": "2018+",
+    "id": 5,
+    "exp": {
+      "img": "https://i.ibb.co/C29PM1n/North-Highland.png",
+      "title": "Management Consultant",
+      "startDate": "2019-05-01T00:00:00.000Z",
+      "dates": "May 2019 - Jan 2021",
+      "description": [
+        "I wanted to explore management consulting as a potential new career path",
+        "I gained experience in digital strategy, business analysis, and product / proposition development",
+        "However, I felt a desire to enhance my technical skills beyond slide building and excel"
+      ]
+    }
+  },
+  {
+    "dropDownYear": "2018+",
+    "id": 6,
+    "exp": {
+      "img": "https://i.ibb.co/r4dcC2y/Stifel.png",
+      "title": "IBD Analyst",
+      "startDate": "2019-03-01T00:00:00.000Z",
+      "dates": "March 2019",
+      "description": [
+        "I received an offer to join an American Boutique Investment Bank as an IBD Analyst",
+        "Becoming a Banker had been a goal of mine since my early teenage years",
+        "I painfully had to turn down the offer due to an unexpected health complication",
+        "After making a full recovery, I set my sights on new goals"
+      ]
+    }
+  },
+  {
+    "dropDownYear": "2018+",
+    "id": 7,
+    "exp": {
+      "img": "https://i.ibb.co/KFGMRyR/RSM.png",
+      "title": "M&A Analyst",
+      "startDate": "2018-08-01T00:00:00.000Z",
+      "dates": "Aug 2018 - March 2019",
+      "description": [
+        "After graduating from University, I rejoined RSM on their graduate scheme, as an M&A Analyst in the Corporate Finance PLC Advisory team",
+        "I worked on numerous deals, advising on carve-outs, non-core disposals, accelerated M&A, and antitrust driven disposals"
+      ]
+    }
+  },
+  {
+    "dropDownYear": "2014+",
+    "id": 8,
+    "exp": {
+      "img": "https://i.ibb.co/ypYXwqL/Bath.png",
+      "title": "Bath University, BSc",
+      "startDate": "2017-06-01T00:00:00.000Z",
+      "dates": "2014 - 2018",
+      "description": [
+        "I chose to join the Business Administration program at Bath University, which was ranked #1 for business in the UK",
+        "With two industrial placements and an academic exchange, I knew this program would equip me well for a career in the city",
+        "Having grown up in rural Wales, I was objectively unaware of how the corporate world worked - this degree helped me close that gap"
+      ]
+    }
+  },
+  {
+    "dropDownYear": "2014+",
+    "id": 9,
+    "exp": {
+      "img": "https://i.ibb.co/yN38nmS/Bocconi.png",
+      "title": "Bocconi, BSc Exchange",
+      "startDate": "2017-06-01T00:00:00.000Z",
+      "dates": "2017",
+      "description": [
+        "During my penultimate year, I studied at Bocconi Business School in Milan",
+        "I ate lots of pasta, drank lots of wine, and got to learn at one of the best business institutions",
+        "This experience sparked a passion for travel and nomadism that I still carry with me today"
+      ]
+    }
+  },
+  {
+    "dropDownYear": "2014+",
+    "id": 10,
+    "exp": {
+      "img": "https://i.ibb.co/542N007/Accenture.png",
+      "title": "Accenture CG&S Strategy",
+      "startDate": "2014-06-01T00:00:00.000Z",
+      "dates": "2017 - 2018",
+      "description": [
+        "I was sponsored by Accenture CG&S to complete a research report on the emergence of the Gig Economy",
+        "The c. 200 page research report included a synthesis of over 20 interviews and 50 survey responses, and culminated in a series of managerial recommendations"
+      ]
+    }
+  }
+]

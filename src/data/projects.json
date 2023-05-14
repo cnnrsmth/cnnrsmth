@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "year": 2023,
+    "title": "Personal Website",
+    "technologies": ["React", "Javascript", "Tailwind CSS"],
+    "img": "https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/wireframe-web-design-og.jpg",
+    "demo": "",
+    "case": "",
+    "github": "https://github.com/cnnrsmth/personal-website"
+  },
+  {
+    "id": 2,
+    "year": 2023,
+    "title": "eCommerce Site",
+    "technologies": [
+      "React",
+      "Javascript",
+      "JSX",
+      "CSS",
+      "HTML",
+      "MongoDB",
+      "Mongoose",
+      "Node",
+      "Express",
+      "Jsonwebtoken",
+      "Bcrypt",
+      "Redux"
+    ],
+    "img": "https://blog-frontend.envato.com/cdn-cgi/image/width=1200,quality=85,format=auto/uploads/2022/04/E-commerce-App-JPG-File-scaled.jpg",
+    "demo": "https://ecommerce-app-inb9.onrender.com",
+    "case": "",
+    "github": "https://github.com/cnnrsmth/eCommerce-MERN"
+  },
+  {
+    "id": 3,
+    "year": 2022,
+    "title": "Netlflix Clone",
+    "technologies": ["React", "Javascript", "JSX", "CSS", "HTML"],
+    "img": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bmV0ZmxpeHxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "demo": "https://netflix-clone-59f8e.web.app/",
+    "case": "",
+    "github": "https://github.com/cnnrsmth/Netflix-Clone"
+  }
+]

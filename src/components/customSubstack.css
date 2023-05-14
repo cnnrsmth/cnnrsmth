@@ -1,0 +1,36 @@
+.substack-iframe {
+  width: 100%;
+}
+
+.substack-iframe .formkit-powered-by,
+.substack-iframe .formkit-background {
+  display: none !important;
+}
+
+.substack-iframe .formkit-subscribe-form {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.substack-iframe .formkit-input {
+  width: 100%;
+  margin-bottom: 10px !important;
+}
+
+.substack-iframe .formkit-submit {
+  width: 100%;
+  background-color: #f5a623 !important;
+  color: #fff !important;
+  border: none !important;
+  padding: 10px 20px !important;
+  cursor: pointer !important;
+  font-size: 16px !important;
+  border-radius: 6px !important;
+  text-transform: uppercase !important;
+  font-weight: 700 !important;
+  transition: background-color 0.3s ease !important;
+}
+
+.substack-iframe .formkit-submit:hover {
+  background-color: #ffa63d !important;
+}
