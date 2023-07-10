@@ -31,5 +31,15 @@
     "demo": "https://ecommerce-app-inb9.onrender.com",
     "case": "",
     "github": "https://github.com/cnnrsmth/eCommerce-MERN"
+  },
+  {
+    "id": 3,
+    "year": 2022,
+    "title": "Netlflix Clone",
+    "technologies": ["React", "Javascript", "JSX", "CSS", "HTML"],
+    "img": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bmV0ZmxpeHxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "demo": "https://netflix-clone-59f8e.firebaseapp.com",
+    "case": "",
+    "github": "https://github.com/cnnrsmth/Netflix-Clone"
   }
 ]
